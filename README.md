@@ -1,5 +1,5 @@
 # Python-for-Engineers
-Tel-Aviv University python programming for engineers course
+Tel-Aviv University python programming course for engineers
 
 ## Syllabus
 * Ex1 - Introduction (rookie mode ON)
